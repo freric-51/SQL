@@ -1,7 +1,7 @@
 # SQL
 
 Some MS-SQL scripts for my reference:
-|Use|file|
+|Usage|file|
 |--|--|
 |cursor example|cursor.sql|
 |To clear large tables in small chunks at a time|Limpar Tabelas.sql|

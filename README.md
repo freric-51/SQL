@@ -3,7 +3,7 @@
 Some MS-SQL scripts for my reference:
 |Use|file|
 |--|--|
-|cursor|cursor.sql|
-|clean|Limpar Tabelas.sql|
-|purge|purge tables.sql|
+|cursor example|cursor.sql|
+|To clear large tables in small chunks at a time|Limpar Tabelas.sql|
+|Aggressive database cleaning|purge tables.sql|
 |Configure SQL|reconfig.sql|

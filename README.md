@@ -1,9 +1,10 @@
 # SQL
 
 Some MS-SQL scripts for my reference:
-|Usage|file|
+
+|file|Usage|
 |--|--|
-|cursor example|cursor.sql|
-|To clear large tables in small chunks at a time|Limpar Tabelas.sql|
-|Aggressive database cleaning|purge tables.sql|
-|Configure SQL|reconfig.sql|
+|cursor.sql|cursor example|
+|Limpar Tabelas.sql|To clear large tables in small chunks at a time|
+|purge tables.sql|Aggressive database cleaning|
+|reconfig.sql|Configure SQL|

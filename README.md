@@ -8,3 +8,5 @@ Some MS-SQL scripts for my reference:
 |Limpar Tabelas.sql|To clear large tables in small chunks at a time|
 |purge tables.sql|Aggressive database cleaning|
 |reconfig.sql|Configure SQL|
+|--|--|
+|[Boletos](https://github.com/freric-51/SQL/tree/main/Boletos)|Import billets from Bradesco |

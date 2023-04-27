@@ -10,3 +10,4 @@ Some MS-SQL scripts for my reference:
 |reconfig.sql|Configure SQL|
 |||
 |[Boletos](https://github.com/freric-51/SQL/tree/main/Boletos)|Work with billets from Bradesco in Oracle DB|
+|[Fourier](https://github.com/freric-51/SQL/tree/main/fourier)|A Fourier implementation in SQL|
